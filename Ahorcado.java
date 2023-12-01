@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Ahorcado {
 
-    private static final String[] PALABRAS = {"computadora", "programacion", "java", "desarrollo", "inteligencia", "codigo", "openai", "tecnologia", "aprendizaje", "datos"};
+    private static final String[] PALABRAS = {"computadora", "programacion", "java", "comida", "inteligencia", "codigo", "pagina", "tecnologia", "laptop", "datos"};
 
     public static void main(String[] args) {
         String palabraSecreta = seleccionarPalabra();
